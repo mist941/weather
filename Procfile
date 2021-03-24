@@ -1,2 +1,2 @@
 web: npm install
-web: npm server
+web: npm run server
